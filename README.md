@@ -79,3 +79,27 @@ ieee(https://ieeexplore.ieee.org/document/9860175/)
 
 https://github.com/PennyLaneAI/qml/blob/master/demonstrations/tutorial_trapped_ions.py
 
+## Challenges in Trapped ion quantum according to this paper https://arxiv.org/pdf/0809.4368.pdf
+
+In order to achieve universal quantum computing, the algorithms have to
+be implemented in a fault-tolerant way. It is commonly accepted that this
+requires quantum error correction. Therefore, currently one of the most important goals is to implement quantum error correction repeatedly with high
+fidelity to prolong coherence times and to correct for errors induced by the
+gate operations. The largest obstacle to perform a successful quantum error
+correction protocol seems to be the limited fidelity of the operations. The current state of the art for the control in ion trap quantum computing can be
+summarized as follows:
+• The qubit coherence times are one or two orders of magnitude longer than
+the basic (gate) operations. In specific cases coherence times longer by more
+than five orders of magnitude the gate time are available (see Sec. 3.1.2).
+In most current experiments, motional decoherence is not a problem. In
+addition, it can be further suppressed with cooling of the trap electrodes
+(see Sec. 3.2).
+• Initialization accuracies are on the order of 0.999 as discussed in Sec. 2.4.
+Most likely they can be improved further if necessary.
+• Single qubit operation can be carried out with fidelities exceeding 0.995
+(Knill et al., 2008). If required, further improvements are possible with more
+stable laser fields at the ion positions.
+• Implementations of two-qubit gate operations achieve fidelities of about 0.9–
+0.99. Depending on the gate type, various sources limit the fidelity. Errors
+are caused by off-resonant scattering, imperfect addressing of individual
+
