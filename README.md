@@ -75,9 +75,11 @@ ieee(https://ieeexplore.ieee.org/document/9860175/)
 
 [error correction paper ](https://physicstoday.scitation.org/doi/10.1063/1.1897514)
 
-## Tutorials
+## Tutorials and resources 
 
 https://github.com/PennyLaneAI/qml/blob/master/demonstrations/tutorial_trapped_ions.py
+
+[resource on error correction] (https://abdullahkhalid.com/qecft/)
 
 ## Challenges in Trapped ion quantum according to this paper https://arxiv.org/pdf/0809.4368.pdf
 
