@@ -37,7 +37,7 @@ Here are a few docs related to optimization:
 
 [List of optimization targets on Azure Quantum - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/qio-target-list)
 
-Papers we can implement or discuss 
+## Papers we can implement or discuss 
 
 [error correction](http://qserver.usc.edu/qec11/slides/Blatt_QEC11.pdf)
 
