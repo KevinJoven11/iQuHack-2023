@@ -36,3 +36,35 @@ Here are a few docs related to optimization:
 [microsoft/qio-samples: Samples for using optimization solvers through Azure Quantum. (github.com)](https://github.com/microsoft/qio-samples)
 
 [List of optimization targets on Azure Quantum - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/qio-target-list)
+
+Papers we can implement or discuss 
+
+[error correction](http://qserver.usc.edu/qec11/slides/Blatt_QEC11.pdf)
+
+[qec](https://arxiv.org/pdf/0809.4368.pdf)
+
+[qec](https://arxiv.org/pdf/0809.4368)
+
+[Constrained quantum optimization for extractive summarization](https://www.nature.com/articles/s41598-022-20853-w)
+
+[Optimizing electronic structure simulations on a trapped-ion quantum computer using problem decomposition](https://www.nature.com/articles/s42005-021-00751-9)
+
+[opti](https://www.pnas.org/doi/10.1073/pnas.2006373117)
+
+[maxcut](https://scai.engineering.asu.edu/2021-22-seminars/trapped-ion-quantum-computing-and-quantum-approximate-optimization-algorithm-for-maxcut-problem/)
+
+[QAOA ](https://inspirehep.net/literature/2021742)
+
+[Adiabatic quantum optimization](https://www.frontiersin.org/articles/10.3389/fphy.2015.00021/full)
+
+ml(https://uwspace.uwaterloo.ca/handle/10012/17322)
+
+ml(https://scholar.google.co.in/scholar?q=Machine+Learning+and+Optimization.+Techniques+for+Trapped-ion+Quantum.+Simulators&hl=en&as_sdt=0&as_vis=1&oi=scholart)
+
+ieee(https://ieeexplore.ieee.org/document/9860175/)
+
+[Digital-Analog Quantum Simulation of Spin Models in Trapped Ions ](https://www.nature.com/articles/srep30534)
+
+[Digital Quantum Simulation of the Schwinger Model and Symmetry Protection with Trapped Ions (Journal Article) | DOE PAGES](https://www.osti.gov/pages/biblio/1866519)
+
+[ionq](https://ionq.com/resources/publications)
