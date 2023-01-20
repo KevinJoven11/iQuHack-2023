@@ -3,6 +3,6 @@
 To-Do:
 
 1. Learn Julia (All)
-2. Learn Qbrain (All)
+2. Learn Qbraid (All)
 3. Insert Block diagram (Onri)
 4. Learn bloqade (Kevin, Abby)
