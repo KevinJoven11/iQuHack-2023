@@ -39,7 +39,7 @@ Here are a few docs related to optimization:
 
 ## Papers we can implement or discuss interesting papers
 
-[Realization of Real-Time Fault-Tolerant Quantum Error Correction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058)Very Important
+[Realization of Real-Time Fault-Tolerant Quantum Error Correction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058) Error correction Very Important
 
 [Quantum error correction with metastable states of trapped ions using erasure conversion](https://arxiv.org/abs/2210.15024)
 
