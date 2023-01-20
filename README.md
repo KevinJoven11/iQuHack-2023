@@ -42,7 +42,7 @@ Here are a few docs related to optimization:
 
 [Quantum error correction with metastable states of trapped ions using erasure conversion](https://arxiv.org/abs/2210.15024)
 
-
+[Quantum Error correction important](https://pubmed.ncbi.nlm.nih.gov/34608286/)
 
 [qec](https://arxiv.org/pdf/0809.4368.pdf)
 
