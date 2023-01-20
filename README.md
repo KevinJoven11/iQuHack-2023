@@ -14,8 +14,11 @@ To-Do:
 
 Azure Quantum Resources 
 [Create an Azure Quantum workspace - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/how-to-create-workspace?tabs=payg%2Ctabid-quick)
+
 [ Get started with Q# and an Azure Quantum notebook - Azure Quantum | Microsoft Docs ](https://learn.microsoft.com/en-us/azure/quantum/get-started-jupyter-notebook?tabs=tabid-ionq)
+
 [ Submit Qiskit quantum circuits to Azure Quantum using an online notebook - Azure Quantum | Microsoft Docs ](https://learn.microsoft.com/en-us/azure/quantum/quickstart-microsoft-qiskit-portal?pivots=platform-ionq)
+
 [Azure Quantum job costs - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/azure-quantum-job-costs)
 
 [How to bulk add users to an Azure Quantum workspace - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/bulk-add-users-to-a-workspace)
@@ -25,7 +28,11 @@ Here are a few docs related to optimization:
  
 
 [Submit optimization jobs to Azure Quantum - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/how-to-submit-jobs-optimization?pivots=ide-portal)
+
 [Introduction to optimization - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/optimization-overview-introduction)
+
 [Publish a QIO job as an Azure Function - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/how-to-publish-qio-job-as-azurefunction)
+
 [microsoft/qio-samples: Samples for using optimization solvers through Azure Quantum. (github.com)](https://github.com/microsoft/qio-samples)
+
 [List of optimization targets on Azure Quantum - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/qio-target-list)
