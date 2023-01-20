@@ -43,7 +43,7 @@ Here are a few docs related to optimization:
 
 [Quantum error correction with metastable states of trapped ions using erasure conversion](https://arxiv.org/abs/2210.15024)
 
-[error correction](http://qserver.usc.edu/qec11/slides/Blatt_QEC11.pdf)
+
 
 [qec](https://arxiv.org/pdf/0809.4368.pdf)
 
@@ -78,6 +78,8 @@ ieee(https://ieeexplore.ieee.org/document/9860175/)
 [Crosstalk Suppression for Fault-tolerant Quantum Error Correction with Trapped Ions](https://quantum-journal.org/papers/q-2021-06-29-487/)
 
 [error correction paper ](https://physicstoday.scitation.org/doi/10.1063/1.1897514)
+
+[error correction](http://qserver.usc.edu/qec11/slides/Blatt_QEC11.pdf)
 
 ## Tutorials and resources 
 
