@@ -68,3 +68,9 @@ ieee(https://ieeexplore.ieee.org/document/9860175/)
 [Digital Quantum Simulation of the Schwinger Model and Symmetry Protection with Trapped Ions (Journal Article) | DOE PAGES](https://www.osti.gov/pages/biblio/1866519)
 
 [ionq](https://ionq.com/resources/publications)
+
+[Quantum Chemistry Calculations on a Trapped-Ion Quantum Simulator](https://arxiv.org/abs/1803.10238)
+
+[Crosstalk Suppression for Fault-tolerant Quantum Error Correction with Trapped Ions](https://quantum-journal.org/papers/q-2021-06-29-487/)
+
+[error correction paper ](https://physicstoday.scitation.org/doi/10.1063/1.1897514)
