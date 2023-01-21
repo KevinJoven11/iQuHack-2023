@@ -36,7 +36,7 @@ Here are a few docs related to optimization:
 
 [List of optimization targets on Azure Quantum - Azure Quantum | Microsoft Docs](https://learn.microsoft.com/en-us/azure/quantum/qio-target-list)
 
-## Papers we can implement or discuss interesting papers
+## Papers we can implement or discuss interesting papers on Error correction, optimization, Chemistry 
 
 [Realization of Real-Time Fault-Tolerant Quantum Error Correction](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.041058) Error correction Very Important
 
