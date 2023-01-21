@@ -44,6 +44,8 @@ Here are a few docs related to optimization:
 
 [Quantum Error correction important](https://pubmed.ncbi.nlm.nih.gov/34608286/)
 
+[Topological Trapped ion](https://www.science.org/doi/abs/10.1126/science.1253742)
+
 [qec](https://arxiv.org/pdf/0809.4368.pdf)
 
 [qec](https://arxiv.org/pdf/0809.4368)
