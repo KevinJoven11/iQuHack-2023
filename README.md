@@ -84,7 +84,15 @@ ieee(https://ieeexplore.ieee.org/document/9860175/)
 
 [error correction](http://qserver.usc.edu/qec11/slides/Blatt_QEC11.pdf)
 
-## Tutorials and resources 
+## Tutorials and resources New Updated Tutorials 
+
+https://inspirehep.net/literature/1964622 paper on Quantum machine learning
+
+https://github.com/PennyLaneAI/pennylane-aqt
+
+
+
+https://pennylane.ai/qml/demos/tutorial_trapped_ions.html
 
 https://github.com/PennyLaneAI/qml/blob/master/demonstrations/tutorial_trapped_ions.py
 
