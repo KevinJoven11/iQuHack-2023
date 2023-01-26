@@ -90,11 +90,13 @@ https://inspirehep.net/literature/1964622 paper on Quantum machine learning
 
 https://github.com/PennyLaneAI/pennylane-aqt
 
-
+https://ionq.com/docs/get-started-with-qiskit IonQ Qiskit Tutorials 
 
 https://pennylane.ai/qml/demos/tutorial_trapped_ions.html
 
 https://github.com/PennyLaneAI/qml/blob/master/demonstrations/tutorial_trapped_ions.py
+
+https://www.nature.com/articles/s41534-021-00456-5
 
 [resource on error correction] (https://abdullahkhalid.com/qecft/)
 
