@@ -6,7 +6,7 @@
 4. Tushar Pandey - tusharp@tamu.edu
 5. Pranav Maheshwari - 
 
-As a group we will work in IonQ Challenge.
+As a group we will work in IonQ Challenge *Image classification Algorithm in Qiskit/Cirq*.
 
 ### Resources
 
