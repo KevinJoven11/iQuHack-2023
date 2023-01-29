@@ -1,4 +1,4 @@
-# Team Information ( Team Feynman Prodigies ) (put here your full name & email)
+# Team Information ( Team Feynman Prodigies ) 
 
 1. Abdullah Kazi - kazi.abdullah.temea66@gmail.com
 2. Onri Jay Benally - benal017@umn.edu
