@@ -61,7 +61,7 @@ def count_gates(circuit: qiskit.QuantumCircuit) -> Dict[int, int]:
 def image_mse(image1,image2):
     # Using sklearns mean squared error:
     # https://scikit-learn.org/stable/modules/generated/sklearn.metrics.mean_squared_error.html
-    return mean_squared_error(255*image1,255*image2)
+    return mean_squared_error(image1,image2)
 
 def test():
     #load the actual hackthon data (fashion-mnist)
